@@ -1,5 +1,4 @@
-# Holocaust-Education--
-<!DOCTYPE html>
+# -Holocaust-Education-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,37 +7,43 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 2;
             background-color: #f8f9fa;
             color: #333;
             margin: 0;
             padding: 0;
+            font-size: 24px;
         }
         header {
             background: #2c3e50;
             color: white;
             text-align: center;
-            padding: 20px;
+            padding: 40px;
+            font-size: 48px;
         }
         .container {
-            width: 80%;
+            width: 90%;
             margin: auto;
             overflow: hidden;
-            padding: 20px;
+            padding: 50px;
         }
         .section {
             background: white;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            margin: 40px 0;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
         }
         footer {
             text-align: center;
-            padding: 10px;
+            padding: 20px;
             background: #2c3e50;
             color: white;
-            margin-top: 20px;
+            margin-top: 40px;
+            font-size: 28px;
+        }
+        a {
+            font-size: 26px;
         }
     </style>
 </head>
@@ -59,9 +64,16 @@
         </section>
         
         <section class="section">
+            <h2>Impact of Sugihara's Actions</h2>
+            <p>The visas issued by Sugihara allowed over 6,000 Jewish refugees to travel through Japan to safety. Many of these individuals went on to settle in the United States, Canada, and other countries, contributing to society in numerous ways.</p>
+            <p>Sugihara's courageous actions were recognized posthumously, and in 1985, he was named "Righteous Among the Nations" by Yad Vashem, Israel's official memorial to the Holocaust.</p>
+        </section>
+        
+        <section class="section">
             <h2>Learn More</h2>
             <p>For further reading, visit:<br>
-                <a href="https://encyclopedia.ushmm.org/content/en/article/chiune-sugihara" target="_blank">United States Holocaust Memorial Museum</a>
+                <a href="https://encyclopedia.ushmm.org/content/en/article/chiune-sugihara" target="_blank">United States Holocaust Memorial Museum</a><br>
+                <a href="https://www.yadvashem.org/righteous/stories/sugihara.html" target="_blank">Yad Vashem - Chiune Sugihara</a>
             </p>
         </section>
     </div>
@@ -71,3 +83,4 @@
     </footer>
 </body>
 </html>
+
